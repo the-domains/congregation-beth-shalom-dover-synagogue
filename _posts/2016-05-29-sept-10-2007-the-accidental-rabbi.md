@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Sept. 10, 2007 The accidental rabbi'
-datePublished: '2016-05-29T16:14:48.781Z'
-dateModified: '2016-05-29T16:14:45.567Z'
+datePublished: '2016-05-29T16:32:25.614Z'
+dateModified: '2016-05-29T16:32:01.264Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-sept-10-2007-the-accidental-rabbi.md
