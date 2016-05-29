@@ -1,7 +1,7 @@
 name: Congregation Beth Shalom - Dover Synagogue
 favicon: null
-layout_spectrum: 0.8884332061279565
-typography_spectrum: 0.44458441296592355
+layout_spectrum: 0.60716
+typography_spectrum: 0.71222
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#a9d9ff'
+    - '#050608'
+    - '#fefefe'
+    - '#8c8d87'
+    - '#273d0e'
   brandStrength: 0.023233894957229495
-  lightness: 0.8488278875593096
-  saturation: 0.15738371200859547
-  rhythmicContrast: 0.7796071209013462
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
