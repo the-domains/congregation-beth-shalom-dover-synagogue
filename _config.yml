@@ -1,6 +1,6 @@
-name: Congregation Beth Shalom - Dover Synagogue
+name: CBS Dover
 favicon: null
-layout_spectrum: 0.60716
+layout_spectrum: 0.5186
 typography_spectrum: 0.71222
 title: Congregation Beth Shalom - Dover Synagogue
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8c8d87'
     - '#273d0e'
   brandStrength: 0.023233894957229495
-  lightness: 0.9375
+  lightness: 0.75
   saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
