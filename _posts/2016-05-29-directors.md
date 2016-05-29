@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Board of Directors/ Trustees 2015-2017  '
-datePublished: '2016-05-29T16:13:58.977Z'
-dateModified: '2016-05-29T16:13:49.306Z'
+description: 'Board of Directors/ Trustees 2015-2017 '
+datePublished: '2016-05-29T16:25:52.567Z'
+dateModified: '2016-05-29T16:25:13.733Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-29-directors.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-29-directors.md
 url: directors/index.html
 _type: WebPage
 
@@ -21,68 +21,37 @@ _type: WebPage
 
 Board of Directors/ Trustees 2015-2017 
 
-President
+President - Caroline Schwartz
 
-Caroline Schwartz 
+V-Pres. of Administration - Larry Klepner
 
-V-Pres. of Administration
+V-Pres. of Religious Affairs - Steven Schwartz
 
-Larry Klepner 
+V-Pres. for School and Education Affairs - Barbara White
 
-V-Pres. of Religious Affairs
+V-Pres. for House and Building - Herbert Konowitz
 
-Steven Schwartz 
+V-Pres. for Fundraising - Open
 
-V-Pres. for School and Education Affairs
+Treasurer - Stuart Handler
 
-Barbara White 
+Recording Secretary - Judi Applegate-Zager
 
-V-Pres. for House and Building
+Corresponding Secretary - Rita Klepner
 
-Herbert Konowitz 
+Sisterhood President or Delegate - Open
 
-V-Pres. for Fundraising 
-
-Open 
-
-Treasurer
-
-Stuart Handler 
-
-Recording Secretary
-
-Judi Applegate-Zager 
-
-Corresponding Secretary
-
-Rita Klepner 
-
-Sisterhood President or Delegate 
-
-Open 
-
-Men's Club President or Delegate 
-
-Open 
+Men's Club President or Delegate - Open
 
 TRUSTEES 
 
-Senior Activities
+Senior Activities - Cheri Bragg
 
-Cheri Bragg
+Membership - Geri Gitlin
 
-Membership
+Youth Activities - Michele Smith
 
-Geri Gitlin
+Chessed - Cheri Bragg
 
-Youth Activities
-
-Michele Smith
-
-Chessed
-
-Cheri Bragg 
-
-Renovations
-
-Open
+Renovations - Open
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaeb0dd6-b3bc-4cfb-92ea-277c8e4510cf.jpg)
