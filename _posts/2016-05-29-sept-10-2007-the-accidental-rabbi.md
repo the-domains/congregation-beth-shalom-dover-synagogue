@@ -1,22 +1,24 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Sept. 10, 2007 The accidental rabbi '
-datePublished: '2016-05-29T16:09:29.565Z'
-dateModified: '2016-05-29T16:09:27.084Z'
+description: 'Sept. 10, 2007 The accidental rabbi'
+datePublished: '2016-05-29T16:14:48.781Z'
+dateModified: '2016-05-29T16:14:45.567Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-29-sept-10-2007-the-accidental-rabbi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-29-sept-10-2007-the-accidental-rabbi.md
 url: sept-10-2007-the-accidental-rabbi/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1fa1ad7-eb5f-4dbe-9689-0700da947e4a.jpg)
+
 Sept. 10, 2007 The accidental rabbi
 
 For Peggy de Prophetis, this is a special Rosh Hashana
@@ -24,6 +26,7 @@ For Peggy de Prophetis, this is a special Rosh Hashana
 By GARY SOULSMAN
 
 The News Journal
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d50213-bb71-44f0-b2a7-ad18651302e0.jpg)
 
 Wednesday evening, Rabbi Peggy de Prophetis marks the start of a new year and her first celebration of Rosh Hashana with Congregation Beth Sholom of Dover.
 
@@ -80,7 +83,7 @@ An important observance is the sounding of the shofar, a ram's horn blown like a
 A popular observance during this holiday is eating apples dipped in honey, a symbol of the wish for a sweet new year. Another practice is Tashlikh ("casting off"). People walk to flowing water, such as a river, on the afternoon of the first day and empty their pockets symbolically casting off sins.
 
 Source: Judaism 101,[www.jewfaq.org][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaccfc52-eea1-44b9-989c-fe6ddfbb4812.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0286add2-77ca-444b-9051-2f0c55938aa1.jpg)
 
 [0]: mailto:gsoulsman@delawareonline.com "mailto:gsoulsman@delawareonline.com"
 [1]: http://www.jewfaq.org/ "http://www.jewfaq.org/"
