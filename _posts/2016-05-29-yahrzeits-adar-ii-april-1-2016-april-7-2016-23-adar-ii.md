@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ' YAHRZEITS ADAR II April 1, 2016 – April 7, 2016 23 Adar (II) Evelyn Colten NISAN April 8, 2016 – April 14, 2016 2 Nisan Lily Arditi 3 Nisan Ruby Beth Borish 4 Nisan Pauline Schwartz 5 Nisan Mordecai Mersky YAHRZEITS NISAN April 15, 2016 – April 21, 2016 7 Nisan Robert I. Konowitz 7 Nisan Pauline Marcus 9 Nisan Yetta Frances Dubyn 9 Nisan John Rosenfeld 10 Nisan Harriet Goldmintz 10 Nisan Mary Katz 10 Nisan Pearl Spector 10 Nisan Leonard Isaacson 11 Nisan Ruben Simpson Pikus 11 Nisan Mollie Spector 11 Nisan Helen Harris Berman 11 Nisan Anna Weinstein 11 Nisan Jack Winston 11 Nisan Goldie Everett 11 Nisan James Kelly 11 Nisan Rose Levin 12 Nisan Malvin Gelof 13 Nisan Herman J. Harrison 13 Nisan Joseph Jacob YAHRZEITS NISAN April 22, 2016 – April 28, 2016 16 Nisan Abraham Handler 17 Nisan Rebecca Gelof 20 Nisan Mollie Rosenblatt 20 Nisan Sarah Konowitz April 29, 2016 – May 5, 2016 21 Nisan Zelda Nelson 22 Nisan Bessie Gordon 22 Nisan Anna Mae Goldberg 22 Nisan Marvin Mesibov 22 Nisan Morris Jacobson 23 Nisan Phyllis Barros 25 Nisan Sam Auerbach 26 Nisan Abraham Albert Golden 27 Nisan Sadie Golden YAHRZEITS NISAN May 6, 2016 – May 12, 2016 28 Nisan Sally Lipmanson 28 Nisan William Lippman 28 Nisan Rebecca Hanovice 29 Nisan Jacob H. Schiff 29 Nisan James Krauss 30 Nisan David Eskenazi IYAR 1 Iyar Jane Rosenfeld 2 Iyar Lena Rigberg Axel 3 Iyar Dora Markowitz YAHRZEITS IYAR May 13, 2016 – May 19, 2016 6 Iyar Sheila Kratenstein 8 Iyar Joseph Vogel 8 Iyar Michael Brown 9 Iyar Selda Mersky May 20, 2016 – May 26, 2016 12 Iyar Harriet Herbin 13 Iyar Isidore Gelof 13 Iyar Joseph Dubin 15 Iyar Emre Krauss 15 Iyar Joseph Tonick 17 Iyar Emanuel Barros YAHRZEITS IYAR May 27, 2016 – June 2, 2016 19 Iyar Aaron Jacob Rosenberg 19 Iyar Blanche Bialow 19 Iyar Harry Bialow 20 Iyar W. David Borish 20 Iyar Pauline Marcus 20 Iyar Gerald Kramer 20 Iyar Mary Lou Gorkin Smith 21 Iyar Lily Levine 23 Iyar Marylyn Gordon 24 Iyar Kevin Dougherty 24 Iyar Pauline Faber 24 Iyar Ida Greenberg 25 Iyar Claire Levy YAHRZEITS IYAR June 3, 2016 – June 9, 2016 26 Iyar Morris Simon 26 Iyar Neff Halpern 27 Iyar Ruth Rosker 28 Iyar Lois Jean Levin 29 Iyar Raye Francis Mayes SIVAN 1 Sivan Harold Wilson 1 Sivan Terry Pikus 2 Sivan Herman Makruzin YAHRZEITS SIVAN June 10, 2016 – June 16, 2016 5 Sivan Doris Kelly 5 Sivan Mildred Mainster 7 Sivan Max Marcus 9 Sivan Lillian Isaacson June 17, 2016 – June 23, 2016 12 Sivan Sylvia Hirschbein 12 Sivan Barbara Ellen Slavin 13 Sivan Janice Yocheved Cohen Santos 14 Sivan Milton Newman 15 Sivan Edith Nevias Brown 15 Sivan Lena Gertrude Barros 15 Sivan Frederick Rosenfeld 15 Sivan Aida Kline YAHRZEITS SIVAN June 24, 2016 – June 30, 2016 18 Sivan Bettie Rosenhaus 18 Sivan George E. Scott 18 Sivan Debbie Goldman 19 Sivan Hannah Ettenger 19 Sivan Helen Alterowitz 21 Sivan Herman Kratenstein 22 Sivan Selma Dubyn 23 Sivan Vida Brenman 24 Sivan Abe Chodos '
-datePublished: '2016-05-29T16:07:27.785Z'
-dateModified: '2016-05-29T16:07:03.298Z'
-authors: []
-publisher: null
+datePublished: '2016-05-29T16:32:50.969Z'
+dateModified: '2016-05-29T16:32:50.754Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-29-yahrzeits-adar-ii-april-1-2016-april-7-2016-23-adar-ii.md
+authors: []
+publisher: null
+starred: false
 url: yahrzeits-adar-ii-april-1-2016-april-7-2016-23-adar-ii/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da056e98-6418-4ce6-b435-253d7c8e99b8.jpg)
